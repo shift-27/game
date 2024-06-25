@@ -1,5 +1,3 @@
 # game
-My first ever "game" made using pure 1999 C programming language and sdl2 library 
-
-# Cool license!
-Uses MIT license because my code is useless
+My attempt at making my first ever "game" using pure C programming language and sdl2 library when i was 15 years old;
+(3 yrs later) p.s: I've not got about finishing it
